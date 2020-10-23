@@ -1,2 +1,0 @@
-# Metodologialll
-Proyecto de metodologia
